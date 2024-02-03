@@ -11,7 +11,6 @@ Pascual, F. G. and Meeker, W. Q. (1999). Estimating Fatigue Curves with the Rand
   Model. Technometrics, volume 41, pages 277-290.
 
 The current version of the codes is based on a "standardized" RFL with 3 parameters as described in this paper:
-
 Pascual, F. G. (2003). A Standardized Form of the Random Fatigue-Limit Model. Communications in Statistics - Simulation and Computation, 32, 1209-1228.
 The codes were created mainly to efficiently perform numerical integration outside of R.  The subroutines 
   srfl0pdf, srfl0cdf, srfl0quan
