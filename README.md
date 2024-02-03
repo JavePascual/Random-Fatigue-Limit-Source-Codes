@@ -1,3 +1,4 @@
+The Fortran codes are in the file stdrfl.f.  Other codes needed are listed in Dependencies.
 
 Writing the Fortran codes for the Random-Fatigue Limit (RFL) model began in the mid-1990s as part of my Statistics PhD dissertation at Iowa State University.  I had a computer programming background when I began the project, but I had no prior experience with programming in Fortran.  My adviser Professor Bill Meeker shared with me some of his Fortran codes related to my research project.  I pretty much had to learn the language on the fly by adapting these codes for my research.  
 
