@@ -1,4 +1,4 @@
-You will need the Fortran codes listed below.  They are available from online repositories identified below.
+You will need the Fortran codes listed below.  They are available from online repositories.
 
 Available from https://www.netlib.org/:  caler.f, dqagi.f, dqagie.f, dqags.f, dqagse.f, dqelf.f, dqk15i, dqk21.f, dqpsrt.f, 
 fdump.f, i1mach.f (edit and use the settings from dec alpha), j4save.f, s88fmt.f, stopit.f, xerabt.f, xerctl.f, xerprt.f, 
