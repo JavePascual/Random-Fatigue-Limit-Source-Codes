@@ -1,1 +1,5 @@
-You will need the following Fortran codes:
+You will need the following Fortran codes which are available from online repositories.
+
+Available from https://www.netlib.org/:  caler.f, dqagi.f, dqagie.f, dqags.f, dqagse.f, dqelf.f, dqk15i, dqk21.f, dqpsrt.f, fdump.f, i1mach.f (edit and use the settings from dec alpha), j4save.f, s88fmt.f, stopit.f, xerabt.f, xerctl.f, xerprt.f, xerror.f, xerrwv.f, xersav.f, xgetua.f, zeroin.f
+
+Available from https://github.com/landreman/perfect/blob/master/fortran/quadpack/d1mach.f:  d1mach.f
