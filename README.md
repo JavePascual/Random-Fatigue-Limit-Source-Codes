@@ -15,4 +15,4 @@ The codes were created mainly to efficiently perform numerical integration outsi
   srfl0pdf, srfl0cdf, srfl0quan
 are called from within R to compute the pdf, cdf, and quantile values.  The codes have been tested ONLY on Fortran 77.  
 
-I would like to take Professor Bill Meeker for guidance with this project.
+I would like to thank Professor Bill Meeker for guidance with this project.
